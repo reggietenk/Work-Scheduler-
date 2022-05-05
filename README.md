@@ -24,15 +24,10 @@
 - Install jQuery (npm i jQuery)
 
 
-
-
-
-
-
 ## Usage 
 
 
-![screenshot](Assets /images/planner.png)
+![screenshot](images/planner.png)
 
 
 
@@ -58,9 +53,7 @@
 
 ## Links
 
-- Heroku Deployed Link: [https://nameless-cliffs-45982.herokuapp.com/]
-
-- Github Deployed Link: [https://reggietenk.github.io/Budget-Tracker-/]
+- Github Deployed Link: [https://reggietenk.github.io/Work-Scheduler-/]
 
 
 - My Github [https://github.com/reggietenk]
