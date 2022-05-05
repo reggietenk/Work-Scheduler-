@@ -5,7 +5,7 @@ body {
   }
   
   textarea{
-    background: transparent;
+    background: gray;
     border: none;
     resize: none;
     color: #000000;
@@ -15,7 +15,7 @@ body {
   
   .jumbotron {
     text-align: center;
-    background-color: transparent;
+    background-color: gray;
     color: black;
     border-radius: 0;
     border-bottom: 10px solid black;
@@ -69,4 +69,6 @@ body {
     font-size: 20px;
     transition: all .3s ease-in-out;
   }
+
+  
   
